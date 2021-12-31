@@ -1,7 +1,14 @@
+/*
+Calculadora que realiza as quatro operações aritméticas básicas
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
+
 int main () {
+
 
     int n1, n2, op;
 
